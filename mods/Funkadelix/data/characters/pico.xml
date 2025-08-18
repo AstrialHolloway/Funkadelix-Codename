@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="pico/pico" icon="pico" color="#b7d855" camx="-70" camy="70" holdTime="5" y="300">
+	<anim name="idle" anim="idle"/>
+	<anim name="singLEFT" anim="left" x="107" y="-50"/>
+	<anim name="singDOWN" anim="down" x="49" y="-81"/>
+	<anim name="singUP" anim="up" x="99" y="37"/>
+	<anim name="singRIGHT" anim="right" x="-64" y="-51"/>
+</character>

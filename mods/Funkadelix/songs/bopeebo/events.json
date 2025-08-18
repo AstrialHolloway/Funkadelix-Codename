@@ -1,0 +1,453 @@
+{
+	"events": [
+		{
+			"params": [
+				"Who's this punk?",
+				"dad"
+			],
+			"time": 2400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Not some chump!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 4800
+		},
+		{
+			"params": [
+				"What'cha got to show?",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 6600
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 6750,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"Wouldn't ya like to know?",
+				"bf"
+			],
+			"time": 9000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"If you wanna date my kid...",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 11400
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 11550
+		},
+		{
+			"params": [
+				"Bitch, I'm boutta make you flip yo lid...",
+				"bf"
+			],
+			"time": 13800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"...Then you gotta get through me!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 16200
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 16350,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"...Boutta make it look too easy!",
+				"bf"
+			],
+			"time": 18600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 21150
+		},
+		{
+			"params": [
+				"Livin' slow...",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 21600
+		},
+		{
+			"params": [
+				"Livin' slow!",
+				"bf"
+			],
+			"time": 24000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 25800,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"Movin' fast...",
+				"dad"
+			],
+			"time": 26400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Movin' fast!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 28800
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 30750
+		},
+		{
+			"params": [
+				"Now you should know...",
+				"dad"
+			],
+			"time": 30900,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I should know...",
+				"bf"
+			],
+			"time": 33300,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 35550,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"This ain't nothin' new!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 35700
+		},
+		{
+			"params": [
+				"I'll get through to you!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 38100
+		},
+		{
+			"params": [
+				"Boy, ain't you stunned?",
+				"dad"
+			],
+			"time": 40500,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 40650
+		},
+		{
+			"params": [
+				"Can't help but stare at her hot, crossed buns!",
+				"bf"
+			],
+			"time": 42000,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Can't help but stare at her hot, crossed buns!",
+				"bf"
+			],
+			"time": 42750,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 42750,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 45000,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"Now you would stop if you're wise!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 45300
+		},
+		{
+			"params": [
+				"I can't help it sir, I'm lost in her eyes!",
+				"bf"
+			],
+			"time": 47630.2704176756,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Boy, you got some nerve...",
+				"dad"
+			],
+			"time": 49800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 50100
+		},
+		{
+			"params": [
+				"Boy, you gonna get served...",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 52200
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 54750,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"So sing!",
+				"dad"
+			],
+			"time": 54881.0749455188,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"So I'll sing!",
+				"bf"
+			],
+			"time": 56700,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 59550
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 59700,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Livin' slow...",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 60000
+		},
+		{
+			"params": [
+				"Livin' slow!",
+				"bf"
+			],
+			"time": 62400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 64200,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"Or just movin' fast...",
+				"dad"
+			],
+			"time": 64500,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You know I move fast!",
+				"bf"
+			],
+			"time": 66900,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"You know I move fast!",
+				"bf"
+			],
+			"time": 67200,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 67200,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 69450
+		},
+		{
+			"params": [
+				"I said you should know...",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 69600
+		},
+		{
+			"params": [
+				"I said you should know...",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 71700
+		},
+		{
+			"params": [
+				"This ain't nothin' new!",
+				"dad"
+			],
+			"time": 74100,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 74250,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"I'll get through to you!",
+				"bf"
+			],
+			"time": 76500,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true,
+				"NONE"
+			],
+			"time": 79200,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 79200,
+			"name": "lyrics-simple"
+		}
+	]
+}

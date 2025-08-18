@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="marvin" icon="face" color="#a1a1a1" camy="20">
+	<anim name="idle" anim="IDLE" fps="30" loop="true"/>
+</character>

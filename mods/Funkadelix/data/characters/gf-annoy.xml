@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="girlfriend/girlfriendannoy" icon="gf" color="#a5004d" camx="-170" camy="70" holdTime="5">
+	<anim name="danceLeft" anim="idle" indices="30,0..14"/>
+	<anim name="danceRight" anim="idle" indices="15..29"/>
+	<anim name="singLEFT" anim="l" x="-21" y="-9"/>
+	<anim name="singDOWN" anim="d" x="4" y="-45"/>
+	<anim name="singUP" anim="u" x="-18" y="-5"/>
+	<anim name="singRIGHT" anim="r" x="-23" y="-7"/>
+</character>

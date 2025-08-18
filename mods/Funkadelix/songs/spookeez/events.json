@@ -1,0 +1,1092 @@
+{
+	"events": [
+		{
+			"params": [
+				"Spooky month's here, time to give a big cheer",
+				"skid"
+			],
+			"time": 6400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"A-HA!",
+				"skid"
+			],
+			"time": 9200,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Spooky month's here, time to turn up the fear",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 9600
+		},
+		{
+			"params": [
+				"BA-HA!",
+				"bf"
+			],
+			"time": 12400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Now it is time to trick or treat",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 12800
+		},
+		{
+			"params": [
+				"Lotsa new candy to eat, YEA!",
+				"pump"
+			],
+			"time": 14400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Now that it's time to trick or treat",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 16000
+		},
+		{
+			"params": [
+				"MONSTERS ARE HUNTIN' TO EAT'CHA!",
+				"bf"
+			],
+			"time": 17600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Lurking out tonight",
+				"skid"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 18800
+		},
+		{
+			"params": [
+				"Lurking out tonight",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 19200
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 19200,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"pump"
+			],
+			"time": 19600,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Feel the fright!",
+				"skid"
+			],
+			"time": 20800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 20900,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"pump"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 21200
+		},
+		{
+			"params": [
+				"Cuz it's a candy heist",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 21800
+		},
+		{
+			"params": [
+				"",
+				"pump"
+			],
+			"time": 21900,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"pump"
+			],
+			"time": 22800,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Take a bite!",
+				"skid"
+			],
+			"time": 24000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"pump"
+			],
+			"time": 24100,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"pump"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 24400
+		},
+		{
+			"params": [
+				"Who turned out the light",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 25200
+		},
+		{
+			"params": [
+				"A-HA!",
+				"skid"
+			],
+			"time": 25200,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 25700,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"bf"
+			],
+			"time": 26000,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Feel the fright",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 27200
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 27300
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"bf"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 27600
+		},
+		{
+			"params": [
+				"Macabre delight",
+				"bf"
+			],
+			"time": 28400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 28500,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"bf"
+			],
+			"time": 29200,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"In the night",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 30400
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 30500
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"bf"
+			],
+			"time": 30800,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"We said Spooky month's here, time to give a big cheer",
+				"pump"
+			],
+			"time": 31600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"BA-HA!",
+				"bf"
+			],
+			"time": 31600,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 32100
+		},
+		{
+			"params": [
+				"A-HA!",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 34800
+		},
+		{
+			"params": [
+				"Spooky month's here, time to turn up the fear",
+				"bf"
+			],
+			"time": 35200,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"BA-HA!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 38000
+		},
+		{
+			"params": [
+				"PLAY SCARY GAMES and HORROR FLICKS",
+				"skid"
+			],
+			"time": 38400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"COSTUMES CHANGE LIKE MAGIC, YEA!",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 40000
+		},
+		{
+			"params": [
+				"SPELLS, RITUALS, AND EVIL TRICKS",
+				"bf"
+			],
+			"time": 41600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"JUST WANNA CAUSE SOME HAVOC, YEA!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 43200
+		},
+		{
+			"params": [
+				"Lurking out tonight",
+				"pump"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 44400
+		},
+		{
+			"params": [
+				"Lurking out tonight",
+				"pump"
+			],
+			"time": 44900,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 44900,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"skid"
+			],
+			"time": 45200,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Feel the fright",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 46400
+		},
+		{
+			"params": [
+				"",
+				"skid"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 46500
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"skid"
+			],
+			"time": 46800,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Cuz it's a candy heist",
+				"pump"
+			],
+			"time": 47400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"skid"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 47500
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"skid"
+			],
+			"time": 48400,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Take a bite!",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 49600
+		},
+		{
+			"params": [
+				"",
+				"skid"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 49700
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"skid"
+			],
+			"time": 50000,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Who turned out the light",
+				"bf"
+			],
+			"time": 50800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"skid"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 50800
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 51300
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"bf"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 51600
+		},
+		{
+			"params": [
+				"Feel the fright",
+				"bf"
+			],
+			"time": 52800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 52900,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"bf"
+			],
+			"time": 53200,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Macabre delight",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 53800
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 53900
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"bf"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 54800
+		},
+		{
+			"params": [
+				"In the night",
+				"bf"
+			],
+			"time": 56000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 56100,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"bf"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 56400
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 57100,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 57100,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Look to the stars",
+				"pump"
+			],
+			"time": 57600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"High up you'll see far",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 59200
+		},
+		{
+			"params": [
+				"They're just so entrancin'",
+				"pump"
+			],
+			"time": 60800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"As we're spooky dancin'",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 62400
+		},
+		{
+			"params": [
+				"Just so bizzare",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 64000
+		},
+		{
+			"params": [
+				"But you won't get far",
+				"bf"
+			],
+			"time": 65600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Evils we're encanting",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 67200
+		},
+		{
+			"params": [
+				"(Wo ah ooh wah ooh)",
+				"skid"
+			],
+			"time": 68400,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Fear the wicked chanting",
+				"bf"
+			],
+			"time": 68800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Candies and spooks for all",
+				"skid"
+			],
+			"time": 70400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 70400,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"It is the best time in Fall!",
+				"skid"
+			],
+			"time": 71800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Though we may both be small",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 73600
+		},
+		{
+			"params": [
+				"We'll win in this spooky brawl!",
+				"skid"
+			],
+			"time": 75000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You both try to fight it off",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 76600
+		},
+		{
+			"params": [
+				"You can't seem to fight it off",
+				"bf"
+			],
+			"time": 78200,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Seeming a little soft",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 80000
+		},
+		{
+			"params": [
+				"But now you must bear the cost",
+				"bf"
+			],
+			"time": 81400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"pump"
+			],
+			"time": 83200,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Spooky month's here, time to give a big cheer",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 84800
+		},
+		{
+			"params": [
+				"A-HA!",
+				"pump"
+			],
+			"time": 87600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Spooky month's here, time to turn up the fear",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 88000
+		},
+		{
+			"params": [
+				"BA-HA!",
+				"bf"
+			],
+			"time": 90800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Now it is time to trick or treat",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 91200
+		},
+		{
+			"params": [
+				"Lotsa new candy to eat, YEA!",
+				"skid"
+			],
+			"time": 92800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Now that it's time to trick or treat",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 94400
+		},
+		{
+			"params": [
+				"MONSTERS ARE HUNTIN' TO EAT'CHA!",
+				"bf"
+			],
+			"time": 96000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Lurking out tonight",
+				"skid"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 97200
+		},
+		{
+			"params": [
+				"Lurking out tonight",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 97600
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 97600,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"bf"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 98000
+		},
+		{
+			"params": [
+				"Feel the fright",
+				"skid"
+			],
+			"time": 99200,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 99300,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"bf"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 99600
+		},
+		{
+			"params": [
+				"Cuz it's a candy heist",
+				"pump"
+			],
+			"time": 100200,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 100300,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"bf"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 101200
+		},
+		{
+			"params": [
+				"Take a bite!",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 102400
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 102500,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"bf"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 102800
+		},
+		{
+			"params": [
+				"A-HA!",
+				"skid"
+			],
+			"time": 103600,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Who turned out the light",
+				"bf"
+			],
+			"time": 103600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"skid"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 104200
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"pump"
+			],
+			"time": 104400,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Feel the fright",
+				"bf"
+			],
+			"time": 105600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"pump"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 105700
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"pump"
+			],
+			"time": 106000,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Macabre delight",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 106600
+		},
+		{
+			"params": [
+				"",
+				"pump"
+			],
+			"time": 106800,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO! BOO! BOO!)",
+				"skid"
+			],
+			"time": 107600,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"In the night!",
+				"bf"
+			],
+			"time": 108800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 108900,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"(BOO! BOO!)",
+				"skid"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 109200
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 110000
+		},
+		{
+			"params": [
+				"Spooky month's here, time to give a big cheer",
+				"skid"
+			],
+			"time": 110400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"A-HA!",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 113200
+		},
+		{
+			"params": [
+				"Spooky month's here, time to turn up the fear",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 113600
+		},
+		{
+			"params": [
+				"BA-HA!",
+				"bf"
+			],
+			"time": 116400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Every night on Halloween",
+				"pump"
+			],
+			"time": 116800,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"This is our favorite routine",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 118400
+		},
+		{
+			"params": [
+				"YEA!",
+				""
+			],
+			"name": "lyrics-simple",
+			"time": 119600
+		},
+		{
+			"params": [
+				"Every night on Halloween",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 120000
+		},
+		{
+			"params": [
+				"This is our favorite routine, YEA!",
+				"bf"
+			],
+			"time": 121600,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 123400
+		}
+	]
+}

@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/week3/" name="philly-funk">
+	<sprite x="-140.952380952381" scroll="0.8" sprite="images/sky" y="-422.857142857143" type="none" scale="1.1" name="sky"/>
+	<sprite x="-104.000011038223" scroll="0.9" sprite="images/buildings-back" y="150.61904215057" type="none" scale="1.1" name="buildings-back"/>
+	<sprite x="-25.3873837172027" scroll="0.95" sprite="images/power-lines" y="653.248821430655" type="none" scale="1.1" name="power-lines"/>
+	<sprite x="-1" sprite="images/building-front" y="739" type="none" scale="1.1" name="building-front"/>
+	<girlfriend x="1150.00327934752" scroll="1" y="797.239075063649"/>
+	<dad x="700.129231660249" y="599.622174312733"/>
+	<boyfriend x="1554.7619047619" y="744.285714285714"/>
+	<sprite x="3.28696405281426" sprite="images/overlay" y="-137.6048223363" type="none" scale="1.1" name="overlay"/>
+</stage>

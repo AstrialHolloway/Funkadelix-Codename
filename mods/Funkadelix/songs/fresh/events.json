@@ -1,0 +1,495 @@
+{
+	"events": [
+		{
+			"params": [
+				"I object!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 8250
+		},
+		{
+			"params": [
+				"No respect!",
+				"bf"
+			],
+			"time": 10250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Yo life a mess!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 12250
+		},
+		{
+			"params": [
+				"I keep it fresh!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 14250
+		},
+		{
+			"params": [
+				"But no success... HOO!",
+				"dad"
+			],
+			"time": 16250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I must confess... HA!",
+				"bf"
+			],
+			"time": 18250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Leave you in distress, bye!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 20000
+		},
+		{
+			"params": [
+				"I'll beat your contest, guy!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 22000
+		},
+		{
+			"params": [
+				"That's right, keep it up",
+				"dad"
+			],
+			"time": 24000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Keep it up and keep it fresh!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 26000
+		},
+		{
+			"params": [
+				"That's right, keep it up",
+				"bf"
+			],
+			"time": 28000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Keep it up and keep it fresh!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 30000
+		},
+		{
+			"params": [
+				"Ain't no way that I'd let you date my daughter",
+				"dad"
+			],
+			"time": 32500,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Fuck yo rules, bitch, I'm bout to get my rocks off!",
+				"bf"
+			],
+			"time": 36500,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"So you really think you all that, huh?",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 40500
+		},
+		{
+			"params": [
+				"",
+				"dad"
+			],
+			"time": 40500,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Fuck yeah, I am! Whether you like it or not... she's mine, bitch!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 42875
+		},
+		{
+			"params": [
+				"I object!",
+				"dad"
+			],
+			"time": 48250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"No respect!",
+				"bf"
+			],
+			"time": 50250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Yo life a mess!",
+				"dad"
+			],
+			"time": 52250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I keep it fresh!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 54250
+		},
+		{
+			"params": [
+				"But no success... HOO!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 56250
+		},
+		{
+			"params": [
+				"I must confess... HA!",
+				"bf"
+			],
+			"time": 58250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Leave you in distress, bye!",
+				"dad"
+			],
+			"time": 60000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I'll beat your contest, guy!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 62000
+		},
+		{
+			"params": [
+				"That's right, keep it up",
+				"dad"
+			],
+			"time": 64000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Keep it up and keep it fresh!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 66000
+		},
+		{
+			"params": [
+				"That's right, keep it up",
+				"bf"
+			],
+			"time": 68000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Yo life a mess!",
+				"dad"
+			],
+			"time": 68000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Keep it up and keep it fresh!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 70000
+		},
+		{
+			"params": [
+				"Ain't no way that I'd let you date my daughter",
+				"dad"
+			],
+			"time": 72500,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Fuck yo rules, bitch, I'm bout to get my rocks off!",
+				"bf"
+			],
+			"time": 76500,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Lil' boy tryna get sum",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 80750
+		},
+		{
+			"params": [
+				"Now he best watch hisself 'fore he act dumb",
+				"dad"
+			],
+			"time": 82191.8929002189,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Now Papa Dearest gotta teach you a lesson",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 84000
+		},
+		{
+			"params": [
+				"'Cuz class is in session",
+				"dad"
+			],
+			"time": 85832.2628693046,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"No place for a less-than",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 86817.397780367
+		},
+		{
+			"params": [
+				"Damn... Now yo' daughter lookin' mad fine,",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 88000
+		},
+		{
+			"params": [
+				"Ain't no joke when I say that she mine",
+				"bf"
+			],
+			"time": 90125,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"'Cuz Imean what I say and I say what I mean",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 91690.3378653374
+		},
+		{
+			"params": [
+				"And you not gon be laughin' once I'm stackin' green",
+				"bf"
+			],
+			"time": 93686.8718433538,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You 'bout ready to let up ol' man?",
+				"bf"
+			],
+			"time": 96691.2912607362,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Hmph! Hell nah! This lil' party of ours... is just gettin' started!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 98500
+		},
+		{
+			"params": [
+				"I object!",
+				"dad"
+			],
+			"time": 104250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"No respect!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 106250
+		},
+		{
+			"params": [
+				"Yo life a mess!",
+				"dad"
+			],
+			"time": 108250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I keep it fresh!",
+				"bf"
+			],
+			"time": 110250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"But no success... HOO!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 112250
+		},
+		{
+			"params": [
+				"I must confess... HA!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 114250
+		},
+		{
+			"params": [
+				"Leave you in distress, bye!",
+				"dad"
+			],
+			"time": 116000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I'll beat your contest, guy!",
+				"bf"
+			],
+			"time": 118000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I object!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 120250
+		},
+		{
+			"params": [
+				"No respect!",
+				"bf"
+			],
+			"time": 122250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Yo life a mess!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 124250
+		},
+		{
+			"params": [
+				"I keep it fresh!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 126250
+		},
+		{
+			"params": [
+				"But no success... HOO!",
+				"dad"
+			],
+			"time": 128250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I must confess... HA!",
+				"bf"
+			],
+			"time": 130250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Leave you in distress, bye!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 132000
+		},
+		{
+			"params": [
+				"I'll beat your contest, guy!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 134000
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 136250,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				2,
+				true,
+				10,
+				"CLASSIC",
+				"In"
+			],
+			"time": 136250,
+			"name": "Camera Movement"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="girlfriend/gf_week2" icon="gf" color="#a5004d" x="100" y="150" camx="-170" camy="70" holdTime="5" scale="0.8">
+	<anim name="danceLeft" anim="idle" indices="30,0..14"/>
+	<anim name="danceRight" anim="idle" indices="15..29"/>
+</character>

@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "bf",
+	"difficulties": [
+		"Extra"
+	],
+	"color": -15204438,
+	"name": "themesong",
+	"coopAllowed": false,
+	"stepsPerBeat": 2,
+	"displayName": "Theme Song",
+	"beatsPerMeasure": 6,
+	"needsVoices": true,
+	"bpm": 150
+}

@@ -1,0 +1,1030 @@
+{
+	"events": [
+		{
+			"params": [
+				"Here's some advice",
+				"dad"
+			],
+			"time": 10666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Better think it over twice, baby",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 11666.6666666667
+		},
+		{
+			"params": [
+				"Say your goodbyes",
+				"bf"
+			],
+			"time": 13333.3333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You know I'm not playin' nice, baby",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 14333.3333333333
+		},
+		{
+			"params": [
+				"No place to run or hide",
+				"dad"
+			],
+			"time": 16000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Now I'm fightin' dirty",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 17666.6666666667
+		},
+		{
+			"params": [
+				"No need to run or hide",
+				"bf"
+			],
+			"time": 18666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Cuz I know I'm worthy",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 20333.3333333333
+		},
+		{
+			"params": [
+				"Sing it loud to the crowd",
+				"dad"
+			],
+			"time": 21666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Or else Im'ma put you in the ground",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 24333.3333333333
+		},
+		{
+			"params": [
+				"Singin' loud for my crowd",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 27000
+		},
+		{
+			"params": [
+				"You know that I'm gunna stand my ground!",
+				"bf"
+			],
+			"time": 29666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Think you can beat me?",
+				"dad"
+			],
+			"time": 32166.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Boy, you just indie",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 33500
+		},
+		{
+			"params": [
+				"Aint no way you leave alive",
+				"dad"
+			],
+			"time": 34666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I ain't tellin no lies",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 37500
+		},
+		{
+			"params": [
+				"Boy, you 'bout to fuckin' die",
+				"dad"
+			],
+			"time": 38666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"And once this battle over I'mma make yo soul mine!",
+				"dad"
+			],
+			"time": 40166.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Think you can beat me?",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 42833.3333333333
+		},
+		{
+			"params": [
+				"Feel it within me",
+				"bf"
+			],
+			"time": 44166.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Imma leave this place alive",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 45333.3333333333
+		},
+		{
+			"params": [
+				"I ain't tellin no lies",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 48166.6666666667
+		},
+		{
+			"params": [
+				"Won't even have to fuckin' try",
+				"bf"
+			],
+			"time": 49333.3333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Cuz once this battle over I'mma make that girl mine!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 50833.3333333333
+		},
+		{
+			"params": [
+				"Here's some advice",
+				"dad"
+			],
+			"time": 53333.3333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Better think it over twice, baby",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 54333.3333333333
+		},
+		{
+			"params": [
+				"Say your goodbyes",
+				"bf"
+			],
+			"time": 56000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You know I'm not playin' nice, baby",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 57000
+		},
+		{
+			"params": [
+				"No place to run or hide",
+				"dad"
+			],
+			"time": 58666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Now I'm fightin' dirty",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 60333.3333333333
+		},
+		{
+			"params": [
+				"No need to run or hide",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 61333.3333333333
+		},
+		{
+			"params": [
+				"Cuz I know I'm worthy",
+				"bf"
+			],
+			"time": 63000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Sing it loud to the crowd",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 64333.3333333333
+		},
+		{
+			"params": [
+				"Or else Im'ma put you in the ground",
+				"dad"
+			],
+			"time": 67000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Singin' loud for my crowd",
+				"bf"
+			],
+			"time": 69666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You know that I'm gunna stand my ground!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 72333.3333333333
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 74416.6666666667,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"I think its so amazing,",
+				"gf"
+			],
+			"name": "lyrics-simple",
+			"time": 74500
+		},
+		{
+			"params": [
+				"How you can call me baby",
+				"gf"
+			],
+			"name": "lyrics-simple",
+			"time": 75833.3333333333
+		},
+		{
+			"params": [
+				"Then turn around and hold me back controlling who I'm dating",
+				"gf"
+			],
+			"time": 77166.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 79750,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"Yo boy is misbehaving,",
+				"dad"
+			],
+			"time": 79750,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"he must think that im playing!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 81166.6666666667
+		},
+		{
+			"params": [
+				"After I whoop that ass I better not hear no complaining!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 82500
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 85333.3333333333,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"Tired of this arguing, keepin it blunt",
+				"gf"
+			],
+			"name": "lyrics-simple",
+			"time": 85333.3333333333
+		},
+		{
+			"params": [
+				"Please, daddy wont'cha listen?",
+				"gf"
+			],
+			"time": 87666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"(BOTH) Yea?",
+				""
+			],
+			"time": 89000,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Boyfriend, shut up!",
+				"gf"
+			],
+			"name": "lyrics-simple",
+			"time": 89333.3333333333
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 89500
+		},
+		{
+			"params": [
+				"Yo daddy lookin' down at me, like I'm just a runt",
+				"bf"
+			],
+			"time": 90333.3333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"So, nah, girl",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 92833.3333333333
+		},
+		{
+			"params": [
+				"I won't hold back",
+				"bf"
+			],
+			"time": 93500,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I'm mad and I'm on the hunt,",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 94166.6666666667
+		},
+		{
+			"params": [
+				"I'm mad and I'm on the hunt, UH!",
+				"bf"
+			],
+			"time": 95666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Think you can beat me?",
+				"dad"
+			],
+			"time": 96166.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Boy, you just indie",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 97500
+		},
+		{
+			"params": [
+				"Aint no way you leave alive",
+				"dad"
+			],
+			"time": 98666.6666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I ain't tellin no lies",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 101500
+		},
+		{
+			"params": [
+				"Boy, you 'bout to fuckin' die",
+				"dad"
+			],
+			"time": 102666.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"And once this battle over I'mma make yo soul mine!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 104166.666666667
+		},
+		{
+			"params": [
+				"Think you can beat me?",
+				"bf"
+			],
+			"time": 106833.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Feel it within me",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 108166.666666667
+		},
+		{
+			"params": [
+				"Imma leave this place alive",
+				"bf"
+			],
+			"time": 109333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"I ain't tellin no lies",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 112166.666666667
+		},
+		{
+			"params": [
+				"Won't even have to fuckin' try",
+				"bf"
+			],
+			"time": 113333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Cuz once this battle over I'mma make that girl mine!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 114833.333333333
+		},
+		{
+			"params": [
+				"Here's some advice",
+				"dad"
+			],
+			"time": 117333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Better think it over twice, baby",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 118333.333333333
+		},
+		{
+			"params": [
+				"Say your goodbyes",
+				"bf"
+			],
+			"time": 120000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You know I'm not playin' nice, baby",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 121000
+		},
+		{
+			"params": [
+				"No place to run or hide",
+				"dad"
+			],
+			"time": 122666.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Now I'm fightin' dirty",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 124333.333333333
+		},
+		{
+			"params": [
+				"No need to run or hide",
+				"bf"
+			],
+			"time": 125333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Cuz I know I'm worthy",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 127000
+		},
+		{
+			"params": [
+				"Sing it loud to the crowd",
+				"dad"
+			],
+			"time": 128333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Or else Im'ma put you in the ground",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 131000
+		},
+		{
+			"params": [
+				"Singin' loud for my crowd",
+				"bf"
+			],
+			"time": 133666.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You know that I'm gunna stand my ground!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 136333.333333333
+		},
+		{
+			"params": [
+				"Boy, I'm glad to finally make you mine!",
+				"gf"
+			],
+			"name": "lyrics-simple",
+			"time": 139333.333333333
+		},
+		{
+			"params": [
+				"Yeah, your eyes are my sunlight,",
+				"gf"
+			],
+			"time": 142000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Yeah, your eyes are my sunlight, oh",
+				"gf"
+			],
+			"name": "lyrics-simple",
+			"time": 144000
+		},
+		{
+			"params": [
+				"Hold me tight, make me feel so right",
+				"gf"
+			],
+			"time": 144666.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Soarin' high, our love is takin' flight",
+				"gf"
+			],
+			"name": "lyrics-simple",
+			"time": 147333.333333333
+		},
+		{
+			"params": [
+				"Oh, my girl, my love is everlasting",
+				"bf"
+			],
+			"time": 149333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"(It's everlasting)",
+				"gf"
+			],
+			"time": 153666.666666667,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 154416.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"After this fight, let's go all night!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 155000
+		},
+		{
+			"params": [
+				"",
+				"gf"
+			],
+			"name": "lyrics-second-line-simple",
+			"time": 155416.666666667
+		},
+		{
+			"params": [
+				"My love,",
+				"gf"
+			],
+			"time": 157666.666666667,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"My love, you got this, bet that on my",
+				"gf"
+			],
+			"name": "lyrics-simple",
+			"time": 158333.333333333
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 158333.333333333,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Here's some advice",
+				"dad"
+			],
+			"time": 160000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Life!",
+				"gf"
+			],
+			"time": 160000,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Better think it over twice, baby",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 161000
+		},
+		{
+			"params": [
+				"",
+				""
+			],
+			"time": 162250,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Say your goodbyes",
+				"bf"
+			],
+			"time": 162666.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You know I'm not playin' nice, baby",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 163666.666666667
+		},
+		{
+			"params": [
+				"No place to run or hide",
+				"dad"
+			],
+			"time": 165333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Now I'm fightin' dirty",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 167000
+		},
+		{
+			"params": [
+				"No need to run or hide",
+				"bf"
+			],
+			"time": 168000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Cuz I know I'm worthy",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 169666.666666667
+		},
+		{
+			"params": [
+				"Sing it loud to the crowd",
+				"dad"
+			],
+			"time": 171000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Or else Im'ma put you in the ground",
+				"dad"
+			],
+			"time": 173666.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Singin' loud for my crowd",
+				"bf"
+			],
+			"time": 176333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You know that I'm gunna stand my ground!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 179000
+		},
+		{
+			"params": [
+				"RAN OUTTA STRIKES",
+				"dad"
+			],
+			"time": 181333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"YOU'LL BE BURIED HERE TONIGHT, BABY",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 182333.333333333
+		},
+		{
+			"params": [
+				"MY COURAGE RISES",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 184000
+		},
+		{
+			"params": [
+				"I'D LIKE TO SEE YOU TRY, BABY",
+				"bf"
+			],
+			"time": 185166.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"DON'T BACK DOWN FROM THE FIGHT",
+				"dad"
+			],
+			"time": 186666.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"IM'MA LEAVE YOU HURTIN'",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 188333.333333333
+		},
+		{
+			"params": [
+				"WON'T BACK DOWN FROM THIS FIGHT",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 189333.333333333
+		},
+		{
+			"params": [
+				"IM'MA LEAVE YOU HURTIN'",
+				"bf"
+			],
+			"time": 191000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Though you trained",
+				"dad"
+			],
+			"time": 192333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"It's in vain",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 193500
+		},
+		{
+			"params": [
+				"Cuz you've stepped right into my domain",
+				"dad"
+			],
+			"time": 195000,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Unrestrained, I refrain",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 197666.666666667
+		},
+		{
+			"params": [
+				"Adrenaline flowin' through my veins",
+				"bf"
+			],
+			"time": 200333.333333333,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				0,
+				"singUPmiss",
+				true,
+				"MISS"
+			],
+			"time": 203916.666666667,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				0,
+				"singUPmissIdle",
+				true,
+				"NONE"
+			],
+			"time": 204250,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				false,
+				-16777216,
+				9999,
+				"camHUD"
+			],
+			"time": 205333.333333333,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				"Man, FUCK you, bruh. Lil bum ass youngins and they stupid ass singin battles n shit.",
+				"dad"
+			],
+			"time": 205750,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Fuck this Dearest shit, bruh.",
+				"dad"
+			],
+			"time": 210416.666666667,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				-1,
+				0,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 211750,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"...Girl, you ain't tell me yo dad was a sore ass loser, shit.",
+				"bf"
+			],
+			"time": 212916.666666667,
+			"name": "lyrics-simple"
+		}
+	]
+}

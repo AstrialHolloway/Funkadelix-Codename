@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/week1/" name="stage-funk">
+	<sprite x="-600" scroll="0.9" sprite="images/stage" y="-200" name="bg"/>
+	<girlfriend x="550.560501016856" y="533.630279321783"/>
+	<dad x="135.237564067775" y="266.577575593117"/>
+	<boyfriend x="824.458053545086" y="400"/>
+	<sprite x="-500" scroll="1.3" sprite="images/curtains" y="-300" name="stageCurtains"/>
+</stage>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="freeplay.png" width="449" height="118">
+	<SubTexture name="freeplay basic0000" x="2" y="2" width="445" height="114" frameX="-0" frameY="-0" frameWidth="445" frameHeight="114"/>
+	<SubTexture name="freeplay white0000" x="2" y="2" width="445" height="114" frameX="-0" frameY="-0" frameWidth="445" frameHeight="114"/>
+</TextureAtlas>

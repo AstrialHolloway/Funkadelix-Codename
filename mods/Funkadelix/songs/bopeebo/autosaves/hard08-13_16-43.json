@@ -1,0 +1,1611 @@
+{
+	"meta": {
+		"opponentModeAllowed": true,
+		"icon": "dad",
+		"difficulties": [
+			"Easy",
+			"Normal",
+			"Hard"
+		],
+		"customValues": {},
+		"color": -5347634,
+		"name": "bopeebo",
+		"coopAllowed": false,
+		"stepsPerBeat": 8,
+		"displayName": "Bopeebo",
+		"beatsPerMeasure": 6,
+		"needsVoices": true,
+		"bpm": 100
+	},
+	"events": [
+		{
+			"params": [
+				"Who's this punk?",
+				"dad"
+			],
+			"time": 2400,
+			"name": "lyrics-simple",
+			"global": true
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 4800,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"Not some chump!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 4800,
+			"global": true
+		},
+		{
+			"params": [
+				"What'cha got to show?",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 6600,
+			"global": true
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 6750,
+			"name": "Play Animation",
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 7200,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"Wouldn't ya like to know?",
+				"bf"
+			],
+			"time": 9000,
+			"name": "lyrics-simple",
+			"global": true
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 9600,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"If you wanna date my kid...",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 11400,
+			"global": true
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 11550,
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 12000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"Bitch, I'm boutta make you flip yo lid...",
+				"bf"
+			],
+			"time": 13800,
+			"name": "lyrics-simple",
+			"global": true
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 14400,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"...Then you gotta get through me!",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 16200,
+			"global": true
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 16350,
+			"name": "Play Animation",
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 16800,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"...Boutta make it look too easy!",
+				"bf"
+			],
+			"time": 18600,
+			"name": "lyrics-simple",
+			"global": true
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 19200,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 21150,
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 21600,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"Livin' slow...",
+				"dad"
+			],
+			"name": "lyrics-simple",
+			"time": 21600,
+			"global": true
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 24000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"Livin' slow!",
+				"bf"
+			],
+			"time": 24000,
+			"name": "lyrics-simple",
+			"global": true
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 25800,
+			"name": "Play Animation",
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 26400,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"Movin' fast...",
+				"dad"
+			],
+			"global": true,
+			"time": 26400,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 28800,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"Movin' fast!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 28800,
+			"global": true
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 30750,
+			"global": true
+		},
+		{
+			"params": [
+				"Now you should know...",
+				"dad"
+			],
+			"global": true,
+			"time": 30900,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 31200,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"I should know...",
+				"bf"
+			],
+			"global": true,
+			"time": 33300,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 33600,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 35550,
+			"name": "Play Animation",
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 36000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"I'll get through to you!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 38100,
+			"global": true
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 38400,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 40650,
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 40800,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"I'll get through to you!",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 40950,
+			"global": true
+		},
+		{
+			"params": [
+				"Can't help but stare at her hot, crossed buns!",
+				"bf"
+			],
+			"time": 42000,
+			"name": "lyrics-second-line-simple",
+			"global": true
+		},
+		{
+			"params": [
+				"Can't help but stare at her hot, crossed buns!",
+				"bf"
+			],
+			"time": 42750,
+			"name": "lyrics-simple",
+			"global": true
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 42750,
+			"name": "lyrics-second-line-simple",
+			"global": true
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 43200,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 45000,
+			"name": "Play Animation",
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 45600,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 48000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 50100,
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 50400,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 52800,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 54750,
+			"name": "Play Animation",
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 55200,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 57600,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 59550,
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 60000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 62400,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 64200,
+			"name": "Play Animation",
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 64800,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 67200,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"name": "Play Animation",
+			"time": 69450,
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 69600,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 72000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 74250,
+			"name": "Play Animation",
+			"global": true
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 74400,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 76800,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				"hey",
+				true
+			],
+			"time": 79200,
+			"name": "Play Animation",
+			"global": true
+		}
+	],
+	"codenameChart": true,
+	"strumLines": [
+		{
+			"keyCount": 4,
+			"position": "dad",
+			"notes": [
+				{
+					"id": 0,
+					"sLen": 525,
+					"time": 2430,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 525,
+					"time": 3030,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 525,
+					"time": 3630,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 6630,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 6930,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 375,
+					"time": 7125,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 450,
+					"time": 7830,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 750,
+					"time": 8430,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 11430,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 11730,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 300,
+					"time": 11917.5,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 12330,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 12630,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 12930,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 600,
+					"time": 13230,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 16230,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 16530,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 262.5,
+					"time": 16717.5,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 17130,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 17430,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 17730,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 600,
+					"time": 18030,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 21630,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 21930,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 1200,
+					"time": 22230,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 26430,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 26730,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 1050,
+					"time": 27030,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 30930,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 31230,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 31530,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 1200,
+					"time": 31830,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 35730,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 36030,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 36330,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 36930,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 600,
+					"time": 37230,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 40530,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 300,
+					"time": 40830,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 450,
+					"time": 41430,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 600,
+					"time": 42025,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 45330,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 45630,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 46230,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 46717.5,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 47017.5,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 47130,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 47430,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 49830,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 50130,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 525,
+					"time": 50430,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 525,
+					"time": 51030,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 525,
+					"time": 51630,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 54925,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 150,
+					"time": 55230,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 1987.5,
+					"time": 55530,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 375,
+					"time": 57600,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 337.5,
+					"time": 58117.5,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 375,
+					"time": 58537.5,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 337.5,
+					"time": 59017.5,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 225,
+					"time": 59430,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 59737.5,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 60030,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 60330,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 1200,
+					"time": 60630,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 64530,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 64830,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 65130,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 65730,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 1050,
+					"time": 66030,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 69630,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 69930,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 70230,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 70530,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 600,
+					"time": 70830,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 74130,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 74430,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 74730,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 75330,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 600,
+					"time": 75630,
+					"type": 0
+				}
+			],
+			"characters": [
+				"daddy"
+			],
+			"type": 0,
+			"visible": true
+		},
+		{
+			"keyCount": 4,
+			"position": "boyfriend",
+			"notes": [
+				{
+					"id": 3,
+					"sLen": 525,
+					"time": 4830,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 525,
+					"time": 5430,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 525,
+					"time": 6030,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 9037.5,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 9337.5,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 525,
+					"time": 9525,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 450,
+					"time": 10230,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 600,
+					"time": 10830,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 13825,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 14125,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 14325,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 14617.5,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 14730,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 14917.5,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 15030,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 15330,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 600,
+					"time": 15630,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 18625,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 18825,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 19125,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 19417.5,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 19530,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 19830,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 20130,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 20400,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 375,
+					"time": 20737.5,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 24030,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 24330,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 1050,
+					"time": 24630,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 28830,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 29130,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 1200,
+					"time": 29430,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 33325,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 33930,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 1200,
+					"time": 34230,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 38125,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 38430,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 38730,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 39330,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 900,
+					"time": 39630,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 42025,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 42225,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 42525,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 42625,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 42825,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 42925,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 450,
+					"time": 43230,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 450,
+					"time": 43830,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 450,
+					"time": 44430,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 47625,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 47725,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 48030,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 48330,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 48630,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 48930,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 49117.5,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 49417.5,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 49530,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 49830,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 52225,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 52525,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 52830,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 53130,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 525,
+					"time": 53430,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 600,
+					"time": 54030,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 56737.5,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 57000,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 57337.5,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 1725,
+					"time": 57630,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 62430,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 62730,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 1050,
+					"time": 63030,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 66937.5,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 67230,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 67530,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 225,
+					"time": 68130,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 825,
+					"time": 68430,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 450,
+					"time": 71737.5,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 72330,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 72630,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 72930,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 900,
+					"time": 73230,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 76537.5,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 76830,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 77130,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 77730,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 900,
+					"time": 78030,
+					"type": 0
+				}
+			],
+			"characters": [
+				"boyfriend"
+			],
+			"type": 1,
+			"visible": true
+		},
+		{
+			"keyCount": 4,
+			"position": "girlfriend",
+			"notes": [],
+			"characters": [
+				"gf"
+			],
+			"type": 2,
+			"visible": false
+		}
+	],
+	"stage": "stage-funk",
+	"scrollSpeed": 2,
+	"chartVersion": "1.6.0",
+	"noteTypes": []
+}

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character y="200" sprite="boyfriend/boyfriend" flipX="true" isPlayer="true" icon="bf" color="#17FFAA" holdTime="5">
+	<anim name="idle" anim="idle"/>
+	<anim name="hey" anim="YEAH" x="12" y="10"/>
+	<anim name="singLEFTmiss" anim="left miss" x="104" y="-7"/>
+	<anim name="singLEFT" anim="left0" x="104" y="-7"/>
+	<anim name="singDOWN" anim="down0" x="42" y="-44"/>
+	<anim name="singUP" anim="up0" x="-2" y="31"/>
+	<anim name="singRIGHT" anim="right0" x="-65" y="-10"/>
+	<anim name="singDOWNmiss" anim="down miss" x="42" y="-46"/>
+	<anim name="singUPmiss" anim="up miss" y="31"/>
+	<anim name="singRIGHTmiss" anim="right miss" x="-65" y="-10"/>
+</character>

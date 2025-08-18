@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "gf",
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"color": "#A5004D",
+	"name": "leaked",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Leaked",
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}

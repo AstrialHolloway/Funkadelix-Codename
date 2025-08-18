@@ -1,0 +1,665 @@
+{
+	"meta": {
+		"opponentModeAllowed": true,
+		"icon": "monster",
+		"difficulties": [
+			"Extra"
+		],
+		"customValues": {},
+		"color": -786578,
+		"name": "Monster",
+		"coopAllowed": false,
+		"stepsPerBeat": 2,
+		"displayName": "Monster",
+		"beatsPerMeasure": 6,
+		"needsVoices": true,
+		"bpm": 118
+	},
+	"events": [
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 0,
+			"name": "Camera Movement",
+			"global": true
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 4322.03389830509,
+			"name": "Camera Movement",
+			"global": true
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 7245.76271186441,
+			"name": "Camera Movement",
+			"global": true
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 11250,
+			"name": "Camera Movement",
+			"global": true
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 15317.7966101695,
+			"name": "Camera Movement",
+			"global": true
+		}
+	],
+	"strumLines": [
+		{
+			"keyCount": 4,
+			"notes": [
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 16704.4868886577,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 17033.8983050847,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 17161.0169491525,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 17415.2542372881,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 17722.9013623024,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 18075.4761381914,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 18247.7061148895,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 18349.1575289691,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 18686.4406779661,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 19067.7966101695,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 19322.0338983051,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 19449.1525423729,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 19703.3898305085,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 20593.2203389831,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 20974.5762711864,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 21101.6949152542,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 21419.4915254237,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 21546.6101694915,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 21737.2881355932,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 21864.406779661,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 22182.2033898305,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 22436.4406779661,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 22627.1186440678,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 23008.4745762712,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 23326.2711864407,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 23580.5084745763,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 23834.7457627119,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 24025.4237288136,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 24152.5423728814,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 24470.3389830508,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 24724.5762711864,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 254.237288135591,
+					"time": 25105.9322033898,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 25550.8474576271,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 25741.5254237288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 26122.8813559322,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 26313.5593220339,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 26504.2372881356,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 26758.4745762712,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 635.593220338982,
+					"time": 27076.2711864407,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 254.237288135591,
+					"time": 27457.6271186441,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 28728.813559322,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 29110.1694915254,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 29491.5254237288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 29682.2033898305,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 254.237288135591,
+					"time": 30063.5593220339,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 127.118644067796,
+					"time": 30317.7966101695,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 30635.593220339,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 31016.9491525424,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 2288.13559322034,
+					"time": 31271.186440678,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 1525.42372881356,
+					"time": 31906.7796610169,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 1144.06779661017,
+					"time": 32351.6949152542,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 635.593220338982,
+					"time": 33305.0847457627,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 254.237288135591,
+					"time": 34576.2711864407,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 508.47457627119,
+					"time": 34957.6271186441,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 36610.1694915254,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 36800.8474576271,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 37055.0847457627,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 37245.7627118644,
+					"type": 0
+				}
+			],
+			"position": "dad",
+			"strumScale": 1,
+			"strumSpacing": 1,
+			"visible": true,
+			"type": 0,
+			"characters": [
+				"monster"
+			],
+			"strumPos": [
+				0,
+				50
+			],
+			"vocalsSuffix": "",
+			"strumLinePos": 0.25
+		},
+		{
+			"keyCount": 4,
+			"notes": [
+				{
+					"id": 1,
+					"sLen": 1525.42372881356,
+					"time": 40042.3728813559,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 41949.1525423729,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 42139.8305084746,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 42330.5084745763,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 42521.186440678,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 42711.8644067797,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 42902.5423728814,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 43093.2203389831,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 43283.8983050847,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 43665.2542372881,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 43983.0508474576,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 44364.406779661,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 254.237288135591,
+					"time": 44745.7627118644,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 45127.1186440678,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 254.237288135599,
+					"time": 45508.4745762712,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 381.355932203391,
+					"time": 45953.3898305085,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 1271.18644067797,
+					"time": 46525.4237288136,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 48305.0847457627,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 48495.7627118644,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 48686.4406779661,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 48877.1186440678,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 49131.3559322034,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 49322.0338983051,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 49576.2711864407,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 49766.9491525424,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 50021.186440678,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 50211.8644067797,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 50720.3389830508,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 1271.18644067796,
+					"time": 51101.6949152542,
+					"type": 0
+				}
+			],
+			"position": "boyfriend",
+			"strumScale": 1,
+			"strumSpacing": 1,
+			"visible": true,
+			"type": 1,
+			"characters": [
+				"boyfriend-vampire"
+			],
+			"strumPos": [
+				0,
+				50
+			],
+			"vocalsSuffix": "",
+			"strumLinePos": 0.75
+		},
+		{
+			"keyCount": 4,
+			"notes": [],
+			"position": "girlfriend",
+			"strumScale": 1,
+			"strumSpacing": 1,
+			"visible": false,
+			"type": 2,
+			"characters": [
+				"gf-week2"
+			],
+			"strumPos": [
+				0,
+				50
+			],
+			"vocalsSuffix": "",
+			"strumLinePos": 0.25
+		}
+	],
+	"codenameChart": true,
+	"stage": "spooky-funk",
+	"scrollSpeed": 3,
+	"chartVersion": "1.6.0",
+	"noteTypes": []
+}

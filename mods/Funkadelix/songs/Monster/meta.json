@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "monster",
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"customValues": {},
+	"color": -786578,
+	"name": "Monster",
+	"coopAllowed": false,
+	"stepsPerBeat": 2,
+	"displayName": "Monster",
+	"beatsPerMeasure": 6,
+	"needsVoices": true,
+	"bpm": 118
+}

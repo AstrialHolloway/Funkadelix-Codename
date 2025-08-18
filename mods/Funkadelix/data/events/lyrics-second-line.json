@@ -1,0 +1,29 @@
+{
+    "params": [
+        {
+            "name": "Text",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "Color",
+            "type": "ColorWheel",
+            "defaultValue": "#FFFFFF"
+        },
+        {
+            "name": "Size",
+            "type": "Int(0, 99, 1)",
+            "defaultValue": 20
+        },
+        {
+            "name": "Font (fonts/*your font here*)",
+            "type": "String",
+            "defaultValue": "fonts/sovl.otf"
+        },
+        {
+            "name": "Bold?",
+            "type": "Bool",
+            "defaultValue": false
+        }
+    ]
+}

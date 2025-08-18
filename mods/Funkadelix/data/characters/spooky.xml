@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="spooky/spooky_kids" icon="spooky" color="#000000" camx="-10" camy="40" x="0" y="350">
+	<anim name="danceRight" anim="idle" indices="0..7"/>
+	<anim name="danceLeft" anim="idle" indices="8..14"/>
+	<anim name="singLEFT" anim="left" x="133" y="31"/>
+	<anim name="singRIGHT" anim="right" x="-59" y="39"/>
+	<anim name="singDOWN" anim="down" x="-20" y="-30"/>
+	<anim name="singUP" anim="up" x="-20" y="126"/>
+</character>

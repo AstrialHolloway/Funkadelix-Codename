@@ -1,0 +1,787 @@
+{
+	"events": [
+		{
+			"params": [
+				"Left, right!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 9600,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Left, right!",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 14400
+		},
+		{
+			"params": [
+				0,
+				"cheer",
+				true,
+				"NONE"
+			],
+			"name": "Play Animation",
+			"time": 18000
+		},
+		{
+			"params": [
+				"(That's how ya do it!)",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 18000,
+			"name": "lyrics-second-line"
+		},
+		{
+			"params": [
+				1,
+				"hey"
+			],
+			"name": "Play Animation",
+			"time": 18600
+		},
+		{
+			"params": [
+				"Up, down!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 19200
+		},
+		{
+			"params": [
+				"",
+				-1,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 19200,
+			"name": "lyrics-second-line"
+		},
+		{
+			"params": [
+				"Up, down!",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 24000,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				0,
+				"cheer",
+				true,
+				"NONE"
+			],
+			"time": 27600,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"(That's how ya do it!)",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics-second-line",
+			"time": 27600
+		},
+		{
+			"params": [
+				1,
+				"hey"
+			],
+			"time": 28200,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"Left, up, down, right!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 28800,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"",
+				-1,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 28800,
+			"name": "lyrics-second-line"
+		},
+		{
+			"params": [
+				"Left, up, down, right!",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 33600
+		},
+		{
+			"params": [
+				"Down, down, up!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 38400
+		},
+		{
+			"params": [
+				"Down, down, right!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 40800,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Down, down, up!",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 43200,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Down, down, right!",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 45600
+		},
+		{
+			"params": [
+				0,
+				"freestyle",
+				true,
+				"NONE"
+			],
+			"time": 47100,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				"(Freestyle!)",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 47100,
+			"name": "lyrics-second-line"
+		},
+		{
+			"params": [
+				"To beat'cha dad I gotta",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 48150,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"",
+				-1,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 48150,
+			"name": "lyrics-second-line"
+		},
+		{
+			"params": [
+				"Rap to the rhythm, betta-",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 49350
+		},
+		{
+			"params": [
+				"Follow the tempo, baby",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 50550,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Can't risk a miss or blunda",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 51750
+		},
+		{
+			"params": [
+				"To beat my dad you gotta",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 52950,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Rap to the rhythm betta!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 54150
+		},
+		{
+			"params": [
+				"Follow the tempo, baby",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 55350,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Can't risk a miss or blunda!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 56550
+		},
+		{
+			"params": [
+				"This for my baby girl,",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 57750
+		},
+		{
+			"params": [
+				"You make my mind go swirl",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 58950,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Transcendin' time n' space",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 60150
+		},
+		{
+			"params": [
+				"You diamonds, I'm yo pearl",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 61350,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"This for our life togetha'",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 62550,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Just you n' me fo'eva'!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 63750
+		},
+		{
+			"params": [
+				"Daddy's infuriatin'...",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 64950,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Gotta be such a bumma!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 66150
+		},
+		{
+			"params": [
+				"Boy, I'm glad to finally make you mine",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 67800,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Yea, your eyes are my sunlight, oh",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 70200,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Hold me tight, make me feel so right",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 72600
+		},
+		{
+			"params": [
+				"Soarin' high, our love is takin' flight",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 75000,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Ooo, my girl, my love is everlastin'",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 76800,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"After that fight, yea, let's go all night!",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 81900
+		},
+		{
+			"params": [
+				"My love, you got this, bet that on my life!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 84300
+		},
+		{
+			"params": [
+				"To beat'cha dad I gotta",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 86543.2394919704
+		},
+		{
+			"params": [
+				"Left, right!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 87000,
+			"name": "lyrics-second-line"
+		},
+		{
+			"params": [
+				"Rap to the rhythm, betta-",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 87743.2394919704,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Follow the tempo, baby",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 88943.2394919704
+		},
+		{
+			"params": [
+				"Can't risk a miss or blunda",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 90143.2394919704,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"",
+				-1,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 90750,
+			"name": "lyrics-second-line"
+		},
+		{
+			"params": [
+				"To beat my dad you gotta",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 91350
+		},
+		{
+			"params": [
+				"Left, right!",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics-second-line",
+			"time": 91800
+		},
+		{
+			"params": [
+				"Rap to the rhythm betta!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 92550,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Follow the tempo, baby",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 93750
+		},
+		{
+			"params": [
+				"Can't risk a miss or blunda!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 94950,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 95550,
+			"name": "lyrics-second-line"
+		},
+		{
+			"params": [
+				"This for my baby girl,",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 96150
+		},
+		{
+			"params": [
+				"Up, down!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics-second-line",
+			"time": 96600
+		},
+		{
+			"params": [
+				"You make my mind go swirl",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 97350,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Transcendin' time n' space",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 98550
+		},
+		{
+			"params": [
+				"You diamonds, I'm yo pearl",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 99750,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"",
+				-1,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics-second-line",
+			"time": 100350
+		},
+		{
+			"params": [
+				"This for our life togetha'",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 100950
+		},
+		{
+			"params": [
+				"Up, down!",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 101400,
+			"name": "lyrics-second-line"
+		},
+		{
+			"params": [
+				"Just you n' me fo'eva'!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 102150,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"Daddy's infuriatin'...",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 103350
+		},
+		{
+			"params": [
+				"Gotta be such a bumma!",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 104550,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"",
+				-5963699,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics-second-line",
+			"time": 105150
+		},
+		{
+			"params": [
+				"Babygirl, if I had a nickel... ",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 105900
+		},
+		{
+			"params": [
+				"...everytime I thought of you...",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 107850,
+			"name": "lyrics"
+		},
+		{
+			"params": [
+				"I'd have one, cuz you never leave my mind.",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"name": "lyrics",
+			"time": 109556.760507986
+		},
+		{
+			"params": [
+				"Now I'mma face yo' dad, and make you mine!",
+				-15204438,
+				30,
+				"fonts/sovl.otf",
+				false
+			],
+			"time": 112350,
+			"name": "lyrics"
+		}
+	]
+}

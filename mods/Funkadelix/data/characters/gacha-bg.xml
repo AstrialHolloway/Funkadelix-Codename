@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="120" y="510" sprite="gacha_bf" camx="-60" camy="80" icon="bf" color="#17FFAA">
+	<anim name="idle" anim="idle"/>
+	<anim name="singLEFT" anim="left" x="46" y="17"/>
+	<anim name="singDOWN" anim="down" x="1" y="-23"/>
+	<anim name="singUP" anim="up" x="21" y="25"/>
+	<anim name="singRIGHT" anim="right" x="-40" y="-3"/>
+</character>

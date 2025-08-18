@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character y="250" sprite="boyfriend/vampire_boyfriend" flipX="true" camx="-50" camy="110" isPlayer="true" icon="bf" color="#17FFAA" holdTime="5">
+	<anim name="idle" anim="idle"/>
+	<anim name="singLEFT" anim="left0" x="115" y="-20"/>
+	<anim name="singDOWN" anim="down0" x="48" y="-109"/>
+	<anim name="singUP" anim="up0" x="-39" y="81"/>
+	<anim name="singRIGHT" anim="right0" x="-49" y="-16"/>
+	<anim name="singLEFTmiss" anim="leftMISS" x="115" y="-20"/>
+	<anim name="singDOWNmiss" anim="downMISS" x="48" y="-109"/>
+	<anim name="singUPmiss" anim="upMISS" x="-39" y="81"/>
+	<anim name="singRIGHTmiss" anim="rightMISS" x="-49" y="-16"/>
+</character>

@@ -1,0 +1,456 @@
+{
+	"events": [
+		{
+			"params": [
+				"There's that spooky little spark that's in the air",
+				"skid"
+			],
+			"time": 2823.52941176471,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Goblins, ghouls n' witches",
+				"skid"
+			],
+			"time": 5647.05882352941,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"They'll be sure to scare",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 7058.82352941176
+		},
+		{
+			"params": [
+				"Demon lurkin' in the dark, she raisin' hair",
+				"bf"
+			],
+			"time": 8470.58823529412,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Goosebumps, read ya like a book",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 11294.1176470588
+		},
+		{
+			"params": [
+				"You'd best beware",
+				"bf"
+			],
+			"time": 13058.8235294118,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Two of the spookiest kids 'round town",
+				"pump"
+			],
+			"time": 14117.6470588235,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"On a mission",
+				"pump"
+			],
+			"time": 16235.2941176471,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				false,
+				-1,
+				7,
+				"camHUD"
+			],
+			"time": 16941.1764705882,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				1,
+				"camGame"
+			],
+			"time": 16941.1764705882,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				"Call it a sugar rush",
+				"bf"
+			],
+			"time": 16941.1764705882,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Forget 'bout our nutrition",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 18176.4705882353
+		},
+		{
+			"params": [
+				"Feelin' a shiver up your spine",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 19764.7058823529
+		},
+		{
+			"params": [
+				"Sumn' rise suspicion",
+				"bf"
+			],
+			"time": 21529.4117647059,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Right in the corner of your eye",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 22588.2352941176
+		},
+		{
+			"params": [
+				"See an apparition",
+				"bf"
+			],
+			"time": 24352.9411764706,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Yea, we a couple o' smarties",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 25411.7647058824
+		},
+		{
+			"params": [
+				"And no, we're not talkin' nerds",
+				"pump"
+			],
+			"time": 26823.5294117647,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Time for the payday",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 28235.2941176471
+		},
+		{
+			"params": [
+				"We stay snickerin' at your loss of words",
+				"pump"
+			],
+			"time": 29117.6470588235,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"A monsta gon' take out ya heart",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 30882.3529411765
+		},
+		{
+			"params": [
+				"He gon' make sure yo' screams ain't heard",
+				"bf"
+			],
+			"time": 32294.1176470588,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Yo' mama scream \\\"MAY-DAY!\\\"",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 33705.8823529412
+		},
+		{
+			"params": [
+				"When she find two kiddies cut up in thirds!",
+				"bf"
+			],
+			"time": 34764.7058823529,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"You act like an airhead",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 36529.4117647059
+		},
+		{
+			"params": [
+				"Your butterfingers won't do you no good",
+				"skid"
+			],
+			"time": 37588.2352941176,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"We're on a tootsie roll",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 39529.4117647059
+		},
+		{
+			"params": [
+				"Take one from the bowl",
+				"skid"
+			],
+			"time": 40411.7647058823,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"So are we understood?",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 41117.6470588235
+		},
+		{
+			"params": [
+				"Surprised that you ain't fled",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 42176.4705882353
+		},
+		{
+			"params": [
+				"Yo' little fingers end up in a stew",
+				"bf"
+			],
+			"time": 43235.2941176471,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Do him a favor",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 45176.4705882353
+		},
+		{
+			"params": [
+				"Oh, won't you flavor his delicious brew?",
+				"bf"
+			],
+			"time": 46058.8235294118,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"(Can you feel it?)",
+				"pump"
+			],
+			"time": 47294.1176470588,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"There's that spooky little spark",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 48000
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 48000,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"That's everywhere",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 49764.7058823529
+		},
+		{
+			"params": [
+				"Goblins, ghouls, n' witches",
+				"pump"
+			],
+			"time": 50823.5294117647,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"They'll be sure to scare",
+				"pump"
+			],
+			"name": "lyrics-simple",
+			"time": 52235.2941176471
+		},
+		{
+			"params": [
+				"(Watch out for the)",
+				"bf"
+			],
+			"time": 52941.1764705882,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"Demon lurkin' in the dark",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 53647.0588235294
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 53647.0588235294,
+			"name": "lyrics-second-line-simple"
+		},
+		{
+			"params": [
+				"She raisin' hair",
+				"bf"
+			],
+			"time": 55411.7647058823,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Goosebumps, read ya like a book",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 56470.5882352941
+		},
+		{
+			"params": [
+				"You'd best beware",
+				"bf"
+			],
+			"time": 58235.2941176471,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Two of the spookiest kids 'round town",
+				"skid"
+			],
+			"time": 59294.1176470588,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"We're on a mission",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 61235.2941176471
+		},
+		{
+			"params": [
+				"Call it a sugar rush",
+				"skid"
+			],
+			"time": 62117.6470588235,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				1,
+				"camGame"
+			],
+			"time": 62117.6470588235,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				false,
+				-1,
+				7,
+				"camHUD"
+			],
+			"time": 62117.6470588235,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				"Forgettin' all about nutrition",
+				"skid"
+			],
+			"name": "lyrics-simple",
+			"time": 63352.9411764706
+		},
+		{
+			"params": [
+				"Feelin' a shiver up your spine",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 64941.1764705882
+		},
+		{
+			"params": [
+				"Sumn' rise suspicion",
+				"bf"
+			],
+			"time": 66705.8823529412,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"Right in the corner of your eye",
+				"bf"
+			],
+			"name": "lyrics-simple",
+			"time": 67764.7058823529
+		},
+		{
+			"params": [
+				"You see an apparition",
+				"bf"
+			],
+			"time": 69352.9411764706,
+			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				"",
+				"bf"
+			],
+			"time": 70941.1764705882,
+			"name": "lyrics-simple"
+		}
+	]
+}

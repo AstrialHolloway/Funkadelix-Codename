@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="girlfriend/girlfriend" icon="gf" color="#a5004d" camx="-170" camy="70" holdTime="5">
+	<anim name="cheer" anim="cheer" x="-9" y="-6"/>
+	<anim name="singLEFT" anim="left" x="-21" y="-10"/>
+	<anim name="singDOWN" anim="down" x="4" y="-45"/>
+	<anim name="singUP" anim="up" x="-18" y="-5"/>
+	<anim name="singRIGHT" anim="right" x="-23" y="-7"/>
+	<anim name="sad" anim="crying" x="-3" y="-9"/>
+	<anim name="danceLeft" anim="idle" indices="30,0..14"/>
+	<anim name="danceRight" anim="idle" indices="15..29"/>
+	<anim name="freestyle" anim="freestyle" x="8" y="-6"/>
+	<anim name="singLEFT-alt" anim="l-alt" x="-23" y="-8"/>
+	<anim name="singDOWN-alt" anim="d-alt" x="3" y="-44"/>
+	<anim name="singUP-alt" anim="u-alt" x="-18" y="-4"/>
+	<anim name="singRIGHT-alt" anim="r-alt" x="-23" y="-6"/>
+</character>

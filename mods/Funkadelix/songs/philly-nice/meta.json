@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "pico",
+	"difficulties": [
+		"Easy",
+		"Normal",
+		"Hard"
+	],
+	"customValues": {},
+	"color": -4728747,
+	"name": "philly-nice",
+	"coopAllowed": false,
+	"stepsPerBeat": 2,
+	"displayName": "Philly Nice",
+	"beatsPerMeasure": 6,
+	"needsVoices": true,
+	"bpm": 175
+}
