@@ -278,7 +278,7 @@ function switchCrossState()
         case 2:
             FlxG.sound.play(Paths.sound('CS_locked'));
             trace("Coming Soon");
-            FlxG.switchState(new ModState('custom/gallery'));
+            // FlxG.switchState(new ModState('custom/gallery'));
         case 3:
             FlxG.sound.play(Paths.sound('menu/confirm'));
             FlxG.switchState(new OptionsMenu());
