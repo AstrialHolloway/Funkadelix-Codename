@@ -279,9 +279,11 @@
 			"name": "Camera Movement"
 		}
 	],
+	"codenameChart": true,
 	"strumLines": [
 		{
 			"keyCount": 4,
+			"position": "dad",
 			"notes": [
 				{
 					"id": 2,
@@ -2180,15 +2182,15 @@
 					"type": 0
 				}
 			],
-			"position": "dad",
-			"visible": true,
-			"type": 0,
 			"characters": [
 				"daddy"
-			]
+			],
+			"type": 0,
+			"visible": true
 		},
 		{
 			"keyCount": 4,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 2,
@@ -4219,15 +4221,15 @@
 					"type": 0
 				}
 			],
-			"position": "boyfriend",
-			"visible": true,
-			"type": 1,
 			"characters": [
 				"boyfriend"
-			]
+			],
+			"type": 1,
+			"visible": true
 		},
 		{
 			"keyCount": 4,
+			"position": "girlfriend",
 			"notes": [
 				{
 					"id": 3,
@@ -4860,15 +4862,13 @@
 					"type": 1
 				}
 			],
-			"position": "girlfriend",
-			"visible": false,
-			"type": 2,
 			"characters": [
 				"gf"
-			]
+			],
+			"type": 2,
+			"visible": false
 		}
 	],
-	"codenameChart": true,
 	"scrollSpeed": 2.4,
 	"chartVersion": "1.6.0",
 	"stage": "stage-funk",

@@ -234,7 +234,7 @@ function update(elapsed:Float)
 
         trace("Attempting to load week: " + weekName + " on difficulty: " + difficulty);
 
-        var week = PlayState.loadWeek(weekName, difficulty, false);
+        var week = PlayState.recycle(weekName, difficulty);
 
         if(week != null)
         {

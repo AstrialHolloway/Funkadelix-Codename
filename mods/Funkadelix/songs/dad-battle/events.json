@@ -301,6 +301,16 @@
 		},
 		{
 			"params": [
+				2,
+				"gf-annoy",
+				0,
+				true
+			],
+			"time": 74416.6666666667,
+			"name": "Change Character"
+		},
+		{
+			"params": [
 				"I think its so amazing,",
 				"gf"
 			],
@@ -416,6 +426,16 @@
 			],
 			"time": 90333.3333333333,
 			"name": "lyrics-simple"
+		},
+		{
+			"params": [
+				2,
+				"gf",
+				0,
+				true
+			],
+			"time": 90333.3333333333,
+			"name": "Change Character"
 		},
 		{
 			"params": [

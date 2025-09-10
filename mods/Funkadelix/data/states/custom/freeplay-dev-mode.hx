@@ -17,6 +17,7 @@ var songList:Array<String> =
     "philly-nice",
     "monster",
     "pico",
+    "high",
     "themesong",
     "leaked",
     "philly-nice-test"
@@ -33,6 +34,7 @@ var songDisplayList:Array<String> =
     "PHILLY NICE",
     "MONSTER",
     "PICO",
+    "HIGH",
     "THEME SONG",
     "LEAKED",
     "TESTING"
@@ -49,6 +51,7 @@ var weekList:Array<String> =
     "menus/free/week 3",
     "menus/free/week 2",
     "menus/free/week 3",
+    "menus/free/week 4",
     "menus/free/tutorial",
     "menus/free/tutorial",
     "menus/free/tutorial"
@@ -65,6 +68,7 @@ var bpmList:Array<String> =
     175,
     118,
     150,
+    125,
     150,
     100,
     175

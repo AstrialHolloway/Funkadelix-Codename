@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "mom",
+	"difficulties": [
+		"Hard"
+	],
+	"color": -1,
+	"name": "high",
+	"coopAllowed": false,
+	"stepsPerBeat": 2,
+	"displayName": "High",
+	"beatsPerMeasure": 6,
+	"needsVoices": true,
+	"bpm": 125
+}
