@@ -33,6 +33,30 @@ var weekSongList:Array<String> = [
     "menus/story/week 3"
 ];
 
+var weekList:Array<Dynamic> = 
+[
+    {
+        "name": "Tutorial",
+        "songs": [{"name": "tutorial"}],
+        "id": 0
+    },
+    {
+        "name": "Week1",
+        "songs": [{"name": "bopeebo"}, {"name": "fresh"}, {"name": "dad-battle"}],
+        "id": 1
+    },
+    {
+        "name": "Week2",
+        "songs": [{"name": "spookeez"}, {"name": "south"}],
+        "id": 2
+    },
+    {
+        "name": "Week3",
+        "songs": [{"name": "philly-nice"}],
+        "id": 3
+    }
+];
+
 var curIndex:Int = 0;       // start on week0
 var curDiffIndex:Int = 1;   // start on normal difficulty
 
@@ -147,6 +171,9 @@ add(songsSprite);
 // -------------------------
 // Create / Update
 // -------------------------
+
+var elapsedThing;
+
 function create()
 {
     trace("Story Menu Loaded");
@@ -156,13 +183,19 @@ function update(elapsed:Float)
 {
     CoolUtil.playMenuSong();
 
-    // -------------------------
-    // Move tiles
-    // -------------------------
+    elapsedThing = elapsed;
+    
+    updateSprite();
+    handleInputs();
+    handleTiles();
+}
+
+function handleTiles()
+{
     for(tile in tileSprites)
     {
-        tile.x -= tileMoveSpeedX * elapsed;
-        tile.y += tileMoveSpeedY * elapsed;
+        tile.x -= tileMoveSpeedX * elapsedThing;
+        tile.y += tileMoveSpeedY * elapsedThing;
 
         if(tile.x + tile.width < 0)
             tile.x += Math.ceil(screenWidth / tile.width + 1) * tile.width;
@@ -170,81 +203,60 @@ function update(elapsed:Float)
         if(tile.y > screenHeight)
             tile.y -= Math.ceil(screenHeight / tile.height + 1) * tile.height;
     }
+}
 
-    if(FlxG.keys.justPressed.ESCAPE)
+function handleInputs()
+{
+    if(controls.BACK)
         FlxG.switchState(new MainMenuState());
 
-    // -------------------------
-    // Week selection
-    // -------------------------
-    if(FlxG.keys.justPressed.DOWN)
+    if(controls.DOWN_P)
     {
         curIndex++;
         if(curIndex >= weekOptions.length) curIndex = 0;
         FlxG.sound.play(Paths.sound("menu/scroll"));
     }
-    if(FlxG.keys.justPressed.UP)
+    if(controls.UP_P)
     {
         curIndex--;
         if(curIndex < 0) curIndex = weekOptions.length - 1;
         FlxG.sound.play(Paths.sound("menu/scroll"));
     }
 
-    // -------------------------
-    // Difficulty selection
-    // -------------------------
-    if(FlxG.keys.justPressed.RIGHT)
+    if(controls.RIGHT_P)
     {
         curDiffIndex++;
         if(curDiffIndex >= weekDiffs.length) curDiffIndex = 0;
         FlxG.sound.play(Paths.sound("menu/scroll"));
     }
-    if(FlxG.keys.justPressed.LEFT)
+    if(controls.LEFT_P)
     {
         curDiffIndex--;
         if(curDiffIndex < 0) curDiffIndex = weekDiffs.length - 1;
         FlxG.sound.play(Paths.sound("menu/scroll"));
     }
+    
+    if(controls.ACCEPT)
+    {
+        FlxG.sound.play(Paths.sound("menu/confirm"));
+        var weekName:String = weekList[curIndex];
+        var difficulty:String = weekDiffs[curDiffIndex];
+        var week = PlayState.recycle(weekName, difficulty);
+        PlayState.isStoryMode = false;
+        FlxG.switchState(new PlayState());
+    }
+}
 
-    // -------------------------
-    // Update week sprites
-    // -------------------------
+function updateSprite()
+{
     week0Sprite.animation.play(if(curIndex == 0) "sel" else "basic");
     week1Sprite.animation.play(if(curIndex == 1) "sel" else "basic");
     week2Sprite.animation.play(if(curIndex == 2) "sel" else "basic");
     week3Sprite.animation.play(if(curIndex == 3) "sel" else "basic");
 
-    // Update song preview
     songsSprite.loadGraphic(Paths.image(weekSongList[curIndex]));
 
-    // Update difficulty sprites
     diffSprite.animation.play(weekDiffs[curDiffIndex]);
     diffLeftSprite.animation.play(weekDiffs[curDiffIndex]);
     diffRightSprite.animation.play(weekDiffs[curDiffIndex]);
-
-    // -------------------------
-    // Enter: load week
-    // -------------------------
-    if(FlxG.keys.justPressed.ENTER)
-    {
-        FlxG.sound.play(Paths.sound("menu/confirm"));
-
-        var weekName:String = weekOptions[curIndex];
-        var difficulty:String = weekDiffs[curDiffIndex];
-
-        trace("Attempting to load week: " + weekName + " on difficulty: " + difficulty);
-
-        var week = PlayState.recycle(weekName, difficulty);
-
-        if(week != null)
-        {
-            PlayState.isStoryMode = false;
-            FlxG.switchState(new PlayState());
-            trace("Loaded: " + weekName + " on difficulty " + difficulty);
-        }
-        else
-        {
-            trace("ERROR: Could not load week " + weekName);
-        }
-    }
 }
