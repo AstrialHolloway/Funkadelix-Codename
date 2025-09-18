@@ -154,31 +154,9 @@ function update(elapsed:Float)
     }
 }
 
-function handleInputs()
+function handleSelection()
 {
-	// -------------------------
-    // Menu Controls
-    // -------------------------
-    if(controls.BACK)
-        FlxG.switchState(new TitleState());
-
-    if(controls.DOWN_P)
-    {
-        curIndex++;
-        FlxG.sound.play(Paths.sound('menu/scroll'));
-        if(curIndex >= menuOptions.length) curIndex = 0;
-        trace("Current Option:" + menuOptions[curIndex]);
-    }
-
-    if(controls.UP_P)
-    {
-        curIndex--;
-        FlxG.sound.play(Paths.sound('menu/scroll'));
-        if(curIndex < 0) curIndex = menuOptions.length - 1;
-        trace("Current Option:" + menuOptions[curIndex]);
-    }
-
-    // -------------------------
+	 // -------------------------
     // Scale Sprites Based on Selection
     // -------------------------
     if (curIndex != lastIndex)
@@ -248,6 +226,31 @@ function handleInputs()
                 FlxTween.tween(gf, { y: 58 }, 0.4, { ease: FlxEase.backOut });
         }   
     }
+}
+
+function handleInputs()
+{
+	// -------------------------
+    // Menu Controls
+    // -------------------------
+    if(controls.BACK)
+        FlxG.switchState(new TitleState());
+
+    if(controls.DOWN_P)
+    {
+        curIndex++;
+        FlxG.sound.play(Paths.sound('menu/scroll'));
+        if(curIndex >= menuOptions.length) curIndex = 0;
+        trace("Current Option:" + menuOptions[curIndex]);
+    }
+
+    if(controls.UP_P)
+    {
+        curIndex--;
+        FlxG.sound.play(Paths.sound('menu/scroll'));
+        if(curIndex < 0) curIndex = menuOptions.length - 1;
+        trace("Current Option:" + menuOptions[curIndex]);
+    }
 
     if(controls.ACCEPT)
     {
@@ -264,6 +267,7 @@ function handleInputs()
 		persistentUpdate = !(persistentDraw = true);
 		openSubState(new EditorPicker());
 	}
+	handleSelection();
 }
 
 function switchCrossState()
