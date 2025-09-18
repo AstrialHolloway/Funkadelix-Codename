@@ -1,5 +1,3 @@
-// Script by AstroDev, if modifying please have a basic understanding of haxe!
-
 // Scroll speed (pixels per frame)
 var scrollSpeed:Float = 0.2; // adjust for smoothness
 
@@ -234,17 +232,21 @@ function create()
 // -------------------------
 // Update function
 // -------------------------
-function update()
+function update(elapsed:Float)
 {
     CoolUtil.playMenuSong();
-
     weekSprite.loadGraphic(Paths.image(weekList[index]));
+    handleMovementShit();
+    handleInputs();
+    handleTiles(elapsed);
+}
 
-    // --- Move the tiles ---
+function handleTiles(move)
+{
     for(tile in tileSprites)
     {
-        tile.x -= tileMoveSpeedX * FlxG.elapsed;
-        tile.y += tileMoveSpeedY * FlxG.elapsed;
+        tile.x -= tileMoveSpeedX * FlxG.move;
+        tile.y += tileMoveSpeedY * FlxG.move;
 
         // Wrap horizontally
         if(tile.x + tile.width < 0)
@@ -254,7 +256,10 @@ function update()
         if(tile.y > screenHeight)
             tile.y -= Math.ceil(screenHeight / tile.height + 1) * tile.height;
     }
+}
 
+function handleMovementShit()
+{
     freeplayText1Sprite.y -= scrollSpeed; 
     freeplayText2Sprite.y -= scrollSpeed;
 
@@ -263,8 +268,6 @@ function update()
 
     if (freeplayText2Sprite.y <= -freeplayText1Sprite.height - 50)
         freeplayText2Sprite.y = freeplayText1Sprite.height + 50; 
-
-    // Difficulty layering + smooth slower movement
     if(diff == 0)
     {
         remove(normalDiffSprite, true);
@@ -293,7 +296,6 @@ function update()
         hardDiffSprite.x = FlxMath.lerp(hardDiffSprite.x, 1223, 0.09);
     }
 
-    handleInputs();
 }
 
 // -------------------------
@@ -301,7 +303,7 @@ function update()
 // -------------------------
 function handleInputs()
 {
-    if (FlxG.keys.justPressed.LEFT)
+    if (controls.LEFT_P)
     {
         index--;
         FlxG.sound.play(Paths.sound("menu/scroll"), 0.7);
@@ -338,7 +340,7 @@ function handleInputs()
         trace("BPM changed to: " + bpmList[index]);
     }
 
-    if (FlxG.keys.justPressed.RIGHT)
+    if (controls.RIGHT_P)
     {
         index++;
         FlxG.sound.play(Paths.sound("menu/scroll"), 0.7);
@@ -375,7 +377,7 @@ function handleInputs()
         trace("BPM changed to: " + bpmList[index]);
     }
 
-    if (FlxG.keys.justPressed.UP)
+    if (controls.UP_P)
     {
         diff--;
         FlxG.sound.play(Paths.sound("menu/scroll"), 0.7);
@@ -384,7 +386,7 @@ function handleInputs()
         trace("difficulty changed to:" + diffList[diff]);
     }
 
-    if (FlxG.keys.justPressed.DOWN)
+    if (controls.DOWN_P)
     {
         diff++;
         FlxG.sound.play(Paths.sound("menu/scroll"), 0.7);
