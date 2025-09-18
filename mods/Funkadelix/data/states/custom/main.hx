@@ -152,14 +152,17 @@ function update(elapsed:Float)
         if(tile.y > screenHeight)
             tile.y -= Math.ceil(screenHeight / tile.height + 1) * tile.height;
     }
+}
 
-    // -------------------------
+function handleInputs()
+{
+	// -------------------------
     // Menu Controls
     // -------------------------
-    if(FlxG.keys.justPressed.ESCAPE)
+    if(controls.BACK)
         FlxG.switchState(new TitleState());
 
-    if(FlxG.keys.justPressed.DOWN)
+    if(controls.DOWN_P)
     {
         curIndex++;
         FlxG.sound.play(Paths.sound('menu/scroll'));
@@ -167,7 +170,7 @@ function update(elapsed:Float)
         trace("Current Option:" + menuOptions[curIndex]);
     }
 
-    if(FlxG.keys.justPressed.UP)
+    if(controls.UP_P)
     {
         curIndex--;
         FlxG.sound.play(Paths.sound('menu/scroll'));
@@ -257,7 +260,7 @@ function update(elapsed:Float)
 		openSubState(new ModSwitchMenu());
     }
 
-    if (FlxG.keys.justPressed.SEVEN) {
+    if (controls.DEV_ACCESS) {
 		persistentUpdate = !(persistentDraw = true);
 		openSubState(new EditorPicker());
 	}
