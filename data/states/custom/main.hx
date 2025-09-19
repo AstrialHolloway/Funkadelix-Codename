@@ -156,29 +156,17 @@ function update(elapsed:Float)
     // -------------------------
     // Menu Controls
     // -------------------------
-    if(FlxG.keys.justPressed.ESCAPE)
-        FlxG.switchState(new TitleState());
-
-    if(FlxG.keys.justPressed.DOWN)
-    {
-        curIndex++;
-        FlxG.sound.play(Paths.sound('menu/scroll'));
-        if(curIndex >= menuOptions.length) curIndex = 0;
-        trace("Current Option:" + menuOptions[curIndex]);
-    }
-
-    if(FlxG.keys.justPressed.UP)
-    {
-        curIndex--;
-        FlxG.sound.play(Paths.sound('menu/scroll'));
-        if(curIndex < 0) curIndex = menuOptions.length - 1;
-        trace("Current Option:" + menuOptions[curIndex]);
-    }
+    handleInputs();
 
     // -------------------------
     // Scale Sprites Based on Selection
     // -------------------------
-    if (curIndex != lastIndex)
+	handleSpriteShit();
+}
+
+function handleSpriteShit()
+{
+	if (curIndex != lastIndex)
     {
         lastIndex = curIndex;
 
@@ -245,8 +233,29 @@ function update(elapsed:Float)
                 FlxTween.tween(gf, { y: 58 }, 0.4, { ease: FlxEase.backOut });
         }   
     }
+}
 
-    if(controls.ACCEPT)
+function handleInputs()
+{
+	if(controls.BACK)
+        FlxG.switchState(new TitleState());
+
+    if(controls.DOWN_P)
+    {
+        curIndex++;
+        FlxG.sound.play(Paths.sound('menu/scroll'));
+        if(curIndex >= menuOptions.length) curIndex = 0;
+        trace("Current Option:" + menuOptions[curIndex]);
+    }
+
+    if(controls.UP_P)
+    {
+        curIndex--;
+        FlxG.sound.play(Paths.sound('menu/scroll'));
+        if(curIndex < 0) curIndex = menuOptions.length - 1;
+        trace("Current Option:" + menuOptions[curIndex]);
+    }
+	if(controls.ACCEPT)
     {
         switchCrossState();
     }
@@ -257,7 +266,7 @@ function update(elapsed:Float)
 		openSubState(new ModSwitchMenu());
     }
 
-    if (FlxG.keys.justPressed.SEVEN) {
+    if (controls.DEV_ACCESS) {
 		persistentUpdate = !(persistentDraw = true);
 		openSubState(new EditorPicker());
 	}
