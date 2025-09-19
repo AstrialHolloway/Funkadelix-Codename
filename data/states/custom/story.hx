@@ -25,6 +25,30 @@ var menuBG:FlxSprite = null;
 var weekOptions:Array<String> = ["week0", "week1", "week2", "week3"];
 var weekDiffs:Array<String> = ["easy", "normal", "hard"];
 
+var weekList:Array<Dynamic> = 
+[
+    {
+        "name": "Week0",
+        "songs": [{"name": "tutorial-funk"}],
+        "id": 0
+    },
+    {
+        "name": "Week1",
+        "songs": [{"name": "bopeebo-funk"}, {"name": "fresh-funk"}, {"name": "dad-battle-funk"}],
+        "id": 1
+    },
+    {
+        "name": "Week2",
+        "songs": [{"name": "spookeez-funk"}, {"name": "south-funk"}],
+        "id": 2
+    },
+    {
+        "name": "Week3",
+        "songs": [{"name": "philly-nice-funk"}],
+        "id": 3
+    }
+];
+
 // Week menu images for previews
 var weekSongList:Array<String> = [
     "menus/story/week 0",
@@ -171,40 +195,7 @@ function update(elapsed:Float)
             tile.y -= Math.ceil(screenHeight / tile.height + 1) * tile.height;
     }
 
-    if(FlxG.keys.justPressed.ESCAPE)
-        FlxG.switchState(new MainMenuState());
-
-    // -------------------------
-    // Week selection
-    // -------------------------
-    if(FlxG.keys.justPressed.DOWN)
-    {
-        curIndex++;
-        if(curIndex >= weekOptions.length) curIndex = 0;
-        FlxG.sound.play(Paths.sound("menu/scroll"));
-    }
-    if(FlxG.keys.justPressed.UP)
-    {
-        curIndex--;
-        if(curIndex < 0) curIndex = weekOptions.length - 1;
-        FlxG.sound.play(Paths.sound("menu/scroll"));
-    }
-
-    // -------------------------
-    // Difficulty selection
-    // -------------------------
-    if(FlxG.keys.justPressed.RIGHT)
-    {
-        curDiffIndex++;
-        if(curDiffIndex >= weekDiffs.length) curDiffIndex = 0;
-        FlxG.sound.play(Paths.sound("menu/scroll"));
-    }
-    if(FlxG.keys.justPressed.LEFT)
-    {
-        curDiffIndex--;
-        if(curDiffIndex < 0) curDiffIndex = weekDiffs.length - 1;
-        FlxG.sound.play(Paths.sound("menu/scroll"));
-    }
+    
 
     // -------------------------
     // Update week sprites
@@ -225,7 +216,12 @@ function update(elapsed:Float)
     // -------------------------
     // Enter: load week
     // -------------------------
-    if(FlxG.keys.justPressed.ENTER)
+    
+}
+
+function handleInputs()
+{
+    if(controls.ACCEPT)
     {
         FlxG.sound.play(Paths.sound("menu/confirm"));
 
@@ -234,17 +230,43 @@ function update(elapsed:Float)
 
         trace("Attempting to load week: " + weekName + " on difficulty: " + difficulty);
 
-        var week = PlayState.recycle(weekName, difficulty);
-
-        if(week != null)
-        {
-            PlayState.isStoryMode = false;
-            FlxG.switchState(new PlayState());
-            trace("Loaded: " + weekName + " on difficulty " + difficulty);
-        }
-        else
-        {
-            trace("ERROR: Could not load week " + weekName);
-        }
+        PlayState.loadWeek(weekList[curIndex], weekDiffs[curDiffIndex]);
+        FlxG.switchState(new PlayState());
     }
+    
+    if(controls.BACK)
+        FlxG.switchState(new MainMenuState());
+
+    // -------------------------
+    // Week selection
+    // -------------------------
+    if(controls.DOWN_P)
+    {
+        curIndex++;
+        if(curIndex >= weekOptions.length) curIndex = 0;
+        FlxG.sound.play(Paths.sound("menu/scroll"));
+    }
+    if(controls.UP_P)
+    {
+        curIndex--;
+        if(curIndex < 0) curIndex = weekOptions.length - 1;
+        FlxG.sound.play(Paths.sound("menu/scroll"));
+    }
+
+    // -------------------------
+    // Difficulty selection
+    // -------------------------
+    if(controls.RIGHT_P)
+    {
+        curDiffIndex++;
+        if(curDiffIndex >= weekDiffs.length) curDiffIndex = 0;
+        FlxG.sound.play(Paths.sound("menu/scroll"));
+    }
+    if(controls.LEFT_P)
+    {
+        curDiffIndex--;
+        if(curDiffIndex < 0) curDiffIndex = weekDiffs.length - 1;
+        FlxG.sound.play(Paths.sound("menu/scroll"));
+    }
+    
 }
