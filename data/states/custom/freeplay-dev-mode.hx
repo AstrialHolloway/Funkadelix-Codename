@@ -301,7 +301,7 @@ function update()
 // -------------------------
 function handleInputs()
 {
-    if (FlxG.keys.justPressed.LEFT)
+    if (controls.LEFT_P)
     {
         index--;
         FlxG.sound.play(Paths.sound("menu/scroll"), 0.7);
@@ -338,7 +338,7 @@ function handleInputs()
         trace("BPM changed to: " + bpmList[index]);
     }
 
-    if (FlxG.keys.justPressed.RIGHT)
+    if (controls.RIGHT_P)
     {
         index++;
         FlxG.sound.play(Paths.sound("menu/scroll"), 0.7);
@@ -375,7 +375,7 @@ function handleInputs()
         trace("BPM changed to: " + bpmList[index]);
     }
 
-    if (FlxG.keys.justPressed.UP)
+    if (controls.UP_P)
     {
         diff--;
         FlxG.sound.play(Paths.sound("menu/scroll"), 0.7);
@@ -384,7 +384,7 @@ function handleInputs()
         trace("difficulty changed to:" + diffList[diff]);
     }
 
-    if (FlxG.keys.justPressed.DOWN)
+    if (controls.DOWN_P)
     {
         diff++;
         FlxG.sound.play(Paths.sound("menu/scroll"), 0.7);
