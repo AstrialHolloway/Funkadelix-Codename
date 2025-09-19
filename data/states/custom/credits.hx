@@ -326,7 +326,7 @@ function update(elapsed:Float)
     }
     
 
-    if (FlxG.keys.justPressed.ESCAPE)
+    if (controls.BACK)
         FlxG.switchState(new MainMenuState());
     
     if (FlxG.keys.justPressed.C)
