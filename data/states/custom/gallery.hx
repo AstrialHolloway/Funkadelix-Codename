@@ -92,10 +92,10 @@ function update(elapsed:Float)
     // -------------------------
     // Controls
     // -------------------------
-    if(FlxG.keys.justPressed.ESCAPE)
+    if(controls.BACK)
         FlxG.switchState(new MainMenuState());
 
-    if(FlxG.keys.justPressed.RIGHT)
+    if(controls.RIGHT_P)
     {
         curImageIndex++;
         FlxG.sound.play(Paths.sound('menu/scroll'));
@@ -104,7 +104,7 @@ function update(elapsed:Float)
         switchCurGraphic(curImageIndex);
     }
 
-    if(FlxG.keys.justPressed.LEFT)
+    if(controls.LEFT_P)
     {
         curImageIndex--;
         FlxG.sound.play(Paths.sound('menu/scroll'));
