@@ -6,7 +6,7 @@ var scrollSpeed:Float = 0.2; // adjust for smoothness
 var index = 0;
 var diff = 0;
 
-var songList:Array<String> = ["tutorial", "bopeebo", "fresh", "dad-battle", "spookeez", "south", "philly-nice"];
+var songList:Array<String> = ["tutorial-funk", "bopeebo-funk", "fresh-funk", "dad-battle-funk", "spookeez-funk", "south-funk", "philly-nice-funk"];
 var songDisplayList:Array<String> = ["TUTORIAL", "BOPEEBO", "FRESH", "DAD BATTLE", "SPOOKEEZ", "SOUTH", "PHILLY NICE"];
 var weekList:Array<String> = ["menus/free/tutorial", "menus/free/week 1", "menus/free/week 1", "menus/free/week 1", "menus/free/week 2", "menus/free/week 2", "menus/free/week 3"];
 var bpmList:Array<String> = [100, 100, 120, 180, 150, 170, 175];

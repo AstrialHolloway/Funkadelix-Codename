@@ -3534,38 +3534,38 @@
 					"type": 1
 				}
 			],
-			"visible": true,
+			"position": "girlfriend",
+			"strumScale": 1,
 			"strumSpacing": 1,
+			"visible": true,
+			"type": 1,
+			"characters": [
+				"gf"
+			],
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "girlfriend",
-			"strumScale": 1,
 			"vocalsSuffix": "",
-			"strumLinePos": 0.75,
-			"type": 1,
-			"characters": [
-				"gf"
-			]
+			"strumLinePos": 0.75
 		},
 		{
 			"keyCount": 4,
 			"notes": [],
-			"visible": false,
+			"position": "girlfriend",
+			"strumScale": 1,
 			"strumSpacing": 1,
+			"visible": false,
+			"type": 2,
+			"characters": [
+				"boyfriend"
+			],
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "girlfriend",
-			"strumScale": 1,
 			"vocalsSuffix": "",
-			"strumLinePos": 0.25,
-			"type": 2,
-			"characters": [
-				"boyfriend"
-			]
+			"strumLinePos": 0.25
 		}
 	],
 	"scrollSpeed": 2.5,

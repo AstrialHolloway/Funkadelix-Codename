@@ -8,16 +8,16 @@ var diff = 0;
 
 var songList:Array<String> = 
 [
-    "tutorial", 
-    "bopeebo", 
-    "fresh", 
-    "dad-battle", 
-    "spookeez", 
-    "south", 
-    "philly-nice",
-    "monster",
-    "pico",
-    "high",
+    "tutorial-funk", 
+    "bopeebo-funk", 
+    "fresh-funk", 
+    "dad-battle-funk", 
+    "spookeez-funk", 
+    "south-funk", 
+    "philly-nice-funk",
+    "monster-funk",
+    "pico-funk",
+    "high-funk",
     "themesong",
     "leaked",
     "philly-nice-test"

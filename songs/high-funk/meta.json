@@ -2,10 +2,11 @@
 	"opponentModeAllowed": true,
 	"icon": "mom",
 	"difficulties": [
-		"Hard"
+		"Hard",
+		"Normal",
+		"Easy"
 	],
-	"color": -1,
-	"name": "high",
+	"color": "#FFFFFF",
 	"coopAllowed": false,
 	"stepsPerBeat": 2,
 	"displayName": "High",
