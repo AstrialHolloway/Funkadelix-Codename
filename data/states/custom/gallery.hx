@@ -92,6 +92,12 @@ function update(elapsed:Float)
     // -------------------------
     // Controls
     // -------------------------
+    
+    handleInputs();
+}
+
+function handleInputs()
+{
     if(controls.BACK)
         FlxG.switchState(new MainMenuState());
 
