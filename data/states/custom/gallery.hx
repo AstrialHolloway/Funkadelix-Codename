@@ -5,7 +5,7 @@ import funkin.menus.credits.CreditsMain;
 
 var menuBG:FlxSprite = null;
 
-var imageOptions:Array<String> = ['menus/gallery/Monster Base Idle','menus/gallery/Monster Base Left'];
+var imageOptions:Array<String> = ['Monster Base Idle','Monster Base Left'];
 var curImageIndex = 0;
 
 // -------------------------
@@ -55,14 +55,14 @@ function create()
    trace("Gallery Loaded");
 
    curImage = new FlxSprite(0,0);
-   curImage.loadGraphic(Paths.image(imageOptions[curImageIndex]));
+   curImage.loadGraphic(Paths.image("menus/gallery/"+imageOptions[curImageIndex]));
    add(curImage);
 }
 
 function switchCurGraphic(index:Int)
 {
     if(index >= 0 && index < imageOptions.length)
-        curImage.loadGraphic(Paths.image(imageOptions[index]));
+        curImage.loadGraphic("menus/gallery/"+Paths.image(imageOptions[index]));
 }
 
 // -------------------------
